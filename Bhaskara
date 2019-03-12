@@ -16,6 +16,6 @@ $c = fgets(STDIN);
 print "O valor de A é: $a \n";
 print "O valor de B é: $b \n";
 print "O valor de C é: $c \n";
-print "O valor de Delta é: $Delta \n";
+print "O valor de Δ é: $Delta \n";
 print "O valor de x1 é: $X1 \n";
 print "O valor de x2 é: $X2 \n";
