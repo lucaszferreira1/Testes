@@ -9,7 +9,7 @@ $b = fgets(STDIN);
 print "Insira o valor de C: ";
 $c = fgets(STDIN);
 
-    $Delta = (pow($b,2))+(4*$a*$c);
+    $Delta = (pow($b,2))-(4*$a*$c);
     $X1 = (-$b-sqrt($Delta))/2*$a;
     $X2 = (-$b+sqrt($Delta))/2*$a;
 
